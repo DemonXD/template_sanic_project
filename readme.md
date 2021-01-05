@@ -1,4 +1,5 @@
 ### SANIC template project structure
+```Shell
 .
 ├── apps
 │   ├── API
@@ -28,4 +29,4 @@
     ├── __init__.py
     ├── normal_util.py
     └── table_util.py
-
+```
